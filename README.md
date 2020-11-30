@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Ytube Tutorial
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This is a simple video search react project connected to the youtube api.
 
 ## Available Scripts
 
