@@ -14,6 +14,9 @@ you can input a search query in the tab and the first video in the list on the r
 
 The default display results are from the search query "Python".
 
+Before start, go to google project console, create a new project called "video browser" or whatever you like, and enable youtube api from api selection, and 
+put an application restriction to the referrer "localhost:3000". In this case only your dev portal (localhost:3000) can use the api key.
+
 In the project directory, you can run:
 
 ### `yarn start`
