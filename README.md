@@ -4,6 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+This repo contains a simple youtube video search browser, the result looks like the following:
+
+![ytube example](assets/ytube.png)
+
+you can input a search query in the tab and the first video in the list on the right side will display on the screen.
+
+The default display results are from the search query "Python".
+
 In the project directory, you can run:
 
 ### `yarn start`
